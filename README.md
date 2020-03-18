@@ -1,2 +1,9 @@
-# projet1-3i005
-projet 1 de 3i005 sur le dilemme l'exploitation/exploration 
+# Game Strategies
+Game Strategies for: Multi-armed bandit and Tic Tac Toe.
+
+## Explored strategies:
+- greedy
+- ɛ-greedy
+- UCB
+- MonteCarlo
+- UCT / MonteCarlo Tree Search 
